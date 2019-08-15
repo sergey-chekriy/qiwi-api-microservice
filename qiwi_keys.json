@@ -1,0 +1,16 @@
+[
+ {
+ "qiwi_id":"xxx",
+ "SECRET_KEY":"xxx" 
+ ,
+ "SEC_TOKEN":"xxx",
+ "orgs": {
+   "org1": {
+         //in qiwi format, see docs
+   },
+   "org2": {
+         //in qiwi format, see docs
+   }
+  }
+ } 
+]
